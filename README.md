@@ -1,6 +1,6 @@
 # ToDo App in React
 
-![ToDo App Screenshot]((image.png))
+![](image-1.png)
 
 ## Overview
 
