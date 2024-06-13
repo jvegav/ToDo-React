@@ -19,7 +19,7 @@ This is a simple ToDo application built with React. It is based on a tutorial fr
 1.  Clone the repository
 ```sh
    git clone https://github.com/jvegav/ToDo-React.git
-sh```
+```sh
     
 2.  Copiar código
 
