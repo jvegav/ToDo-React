@@ -15,62 +15,52 @@ This is a simple ToDo application built with React. It is based on a tutorial fr
 
 ## Installation
 
+1. Clone the repository:
+    ```sh
+    git clone https://github.com/jvegav/ToDo-React.git
+    ```
 
-1.  Clone the repository
-```sh
-   git clone https://github.com/jvegav/ToDo-React.git
-```sh
-    
-2.  Copiar código
+2. Navigate to the project directory:
+    ```sh
+    cd ToDo-React
+    ```
 
-npm install
-    
+3. Install the dependencies:
+    ```sh
+    npm install
+    ```
 
 ## Usage
 
+1. Start the development server:
+    ```sh
+    npm run dev
+    ```
 
-3.  Copiar código
+2. Open your browser and navigate to [http://localhost:5173/](http://localhost:5173/)
 
-npm run dev
-    
-2.  Open your browser and navigate to [http://localhost:5173/](http://localhost:5173/)
-    
+## Code Structure
 
-Code Structure
---------------
+- `App.js`: Main component that handles state and renders other components.
+- `Form.js`: Component for the input and label for adding a new task.
+- `Filter.js`: Component for the buttons to filter the tasks.
+- `List.js`: Component for the list of tasks.
+- `TodoItem.js`: Component for representing each task with buttons to check and delete.
 
-*   App.js: Main component that handles state and renders other components.
-    
-*   Form.js: Component for the Input and Label for adding a new Item TODO.
-    
-*   Filter.js: Component for the buttons and filter the items of TODO.
+## Learning Goals
 
-*   List.js: Component for the List of every item of TODO .
-    
-*   TodoItem.js: Component for representing the items of TODO with Buttons of Check and Delete.
+- Understanding the structure of React applications
+- Learning how to manage state in React using `useState`
+- Utilizing `useEffect` for side effects
+- Implementing CRUD operations in a React app
 
-
-Learning Goals
---------------
-
-*   Understanding the structure of React applications
-    
-*   Learning how to manage state in React using useState
-    
-*   Utilizing useEffect for side effects
-    
-*   Implementing CRUD operations in a React app
-    
-
-Contributing
-------------
+## Contributing
 
 Feel free to fork this project, open issues, and submit pull requests.
 
-Acknowledgements
-----------------
+## Acknowledgements
 
-*   Original YouTube Tutorial by [WebDevSimplified](https://youtu.be/Rh3tobg7hEo?si=TDOLxxcSlzc1VSfO)
-    
-*   React Documentation [REACT](https://react.dev/learn)
+- Original YouTube Tutorial by [WebDevSimplified](https://youtu.be/Rh3tobg7hEo?si=TDOLxxcSlzc1VSfO)
+- React Documentation [React](https://react.dev/learn)
+
     
