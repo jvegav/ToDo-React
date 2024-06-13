@@ -1,6 +1,6 @@
 # ToDo App in React
 
-![ToDo App Screenshot](screenshot.png)
+![ToDo App Screenshot](![alt text](image.png))
 
 ## Overview
 
@@ -20,12 +20,7 @@ This is a simple ToDo application built with React. It is based on a tutorial fr
     git clone https://github.com/jvegav/ToDo-React.git
     ```
 
-2. Navigate to the project directory:
-    ```sh
-    cd ToDo-React
-    ```
-
-3. Install the dependencies:
+2. Install the dependencies:
     ```sh
     npm install
     ```
@@ -58,9 +53,6 @@ This is a simple ToDo application built with React. It is based on a tutorial fr
 
 Feel free to fork this project, open issues, and submit pull requests.
 
-## Acknowledgements
 
-- Original YouTube Tutorial by [WebDevSimplified](https://youtu.be/Rh3tobg7hEo?si=TDOLxxcSlzc1VSfO)
-- React Documentation [React](https://react.dev/learn)
 
     
